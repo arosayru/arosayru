@@ -24,6 +24,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arosayru&layout=compact" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arosayru&show_icons=true&locale=en" alt="arosayru" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=arosayru&show_icons=true&theme=transparent" alt="arosayru" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arosayru&" alt="arosayru" /></p>
